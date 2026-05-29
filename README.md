@@ -1,0 +1,2 @@
+# italoom
+ejercicios python
